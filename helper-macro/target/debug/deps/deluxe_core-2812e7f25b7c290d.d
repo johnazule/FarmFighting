@@ -1,0 +1,12 @@
+/home/azule/Projects/hello_bevy0_15/helper-macro/target/debug/deps/libdeluxe_core-2812e7f25b7c290d.rmeta: /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/lib.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_attributes.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_helpers.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_meta.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/small_string.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/util.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/validations.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/with.rs
+
+/home/azule/Projects/hello_bevy0_15/helper-macro/target/debug/deps/deluxe_core-2812e7f25b7c290d.d: /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/lib.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_attributes.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_helpers.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_meta.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/small_string.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/util.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/validations.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/with.rs
+
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/lib.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_attributes.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_helpers.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/parse_meta.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/small_string.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/util.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/validations.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/deluxe-core-0.5.0/with.rs:

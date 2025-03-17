@@ -1,0 +1,12 @@
+/home/azule/Projects/hello_bevy0_15/helper-macro/target/debug/deps/libproc_macro2-bec39d6377166f76.rmeta: /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/lib.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/marker.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/parse.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/rcvec.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/detection.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/fallback.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/extra.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/wrapper.rs
+
+/home/azule/Projects/hello_bevy0_15/helper-macro/target/debug/deps/proc_macro2-bec39d6377166f76.d: /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/lib.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/marker.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/parse.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/rcvec.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/detection.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/fallback.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/extra.rs /home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/wrapper.rs
+
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/lib.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/marker.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/parse.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/rcvec.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/detection.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/fallback.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/extra.rs:
+/home/azule/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-1.0.93/src/wrapper.rs:
